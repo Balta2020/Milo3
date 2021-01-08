@@ -1,0 +1,13 @@
+
+
+#EXTM3U
+#EXTINF:-1,Sportv 1
+https://cdn3.wowza.com/1/UmRJTkFqcDlQVlNn/ZW5ZWDdN/hls/h6bntjhn/2728/chunklist.m3u8?
+#EXTINF:-1,Sportv 2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="LA019:CDF Premuim" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA019CDFPremuim.png"
+#EXTINF:-1 tvg-id="" tvg-name="LA023:Claro Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA023ClaroSports.png"
+#EXTINF:-1 tvg-id="" tvg-name="LA267:Directv Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA267DirectvSports.png" group-title="Latino",LA267:Directv Sports
+http://ete8.oknirvana.club:8880/test1207/qWqbJqvzSP/59034
+#EXTINF:-1 tvg-id="" tvg-name="LA269:Directv Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/LA/LA269DirectvSports2.png" group-title="Latino",LA269:Directv Sports 2
+http://ete8.oknirvana.club:8880/test1207/qWqbJqvzSP/59032
